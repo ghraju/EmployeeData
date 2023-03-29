@@ -1,0 +1,48 @@
+{
+  "emp": [
+    {
+      "name": "hukum",
+      "email": "hcgupta@cstech.in",
+      "mobile": "9540100448",
+      "gender": "Male",
+      "designation": "hr",
+      "course": "BCA",
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/74.jpg",
+      "date": "2023-03-23",
+      "id": 1
+    },
+    {
+      "name": "manish",
+      "email": "manish@cstech.in",
+      "mobile": 954010033,
+      "designation": "Sales",
+      "gender": "Male",
+      "course": "BCA",
+      "date": "12-Feb-21",
+      "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/12/christian-oliver.jpg",
+      "id": 2
+    },
+    {
+      "name": "yash",
+      "email": "yash@cstech.in",
+      "mobile": "954010022",
+      "gender": "Male",
+      "course": "BSC",
+      "designation": "Manager",
+      "date": "11-Feb-21",
+      "image": "https://images.unsplash.com/photo-1548251147-dda09867567a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWN0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+      "id": 3
+    },
+    {
+      "name": "abhishek",
+      "email": "abhishek@cstech.in",
+      "mobile": "954010033",
+      "gender": "Male",
+      "course": "MCA",
+      "designation": "HR",
+      "date": "13-Feb-21",
+      "image": "https://images.unsplash.com/photo-1548251147-dda09867567a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWN0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+      "id": 4
+    }
+  ]
+}

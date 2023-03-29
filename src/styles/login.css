@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(90deg,rgb(98, 98, 246),rgb(199, 198, 198),rgb(98, 98, 246));
+}
+
+.login{
+    height: 270px;
+    width: 500px;
+    padding: 8px;
+    padding-top: 130px;
+    
+    
+}
+
+.login_form{
+    height: 190px;
+    margin-top: 40px;
+    
+  
+   
+}
+.login_form input{
+    width :280px;
+    height: 40px;
+    margin: 6px 0px;
+    border-radius: 7px;
+    
+}
+.login_button button{
+    margin-top: 16px;
+}
